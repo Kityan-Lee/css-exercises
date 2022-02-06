@@ -1,0 +1,19 @@
+.pink-bg {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#nb-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.nb-3 {
+    font-size: 24px;
+}
+
+#nb-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
